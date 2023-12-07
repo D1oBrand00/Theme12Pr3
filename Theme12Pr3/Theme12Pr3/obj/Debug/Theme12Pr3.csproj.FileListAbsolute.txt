@@ -1,0 +1,7 @@
+B:\Program Files\source\repos\Theme12Pr3\Theme12Pr3\obj\Debug\Theme12Pr3.csproj.AssemblyReference.cache
+B:\Program Files\source\repos\Theme12Pr3\Theme12Pr3\obj\Debug\Theme12Pr3.csproj.CoreCompileInputs.cache
+B:\Program Files\source\repos\Theme12Pr3\Theme12Pr3\bin\Debug\Theme12Pr3.exe.config
+B:\Program Files\source\repos\Theme12Pr3\Theme12Pr3\bin\Debug\Theme12Pr3.exe
+B:\Program Files\source\repos\Theme12Pr3\Theme12Pr3\bin\Debug\Theme12Pr3.pdb
+B:\Program Files\source\repos\Theme12Pr3\Theme12Pr3\obj\Debug\Theme12Pr3.exe
+B:\Program Files\source\repos\Theme12Pr3\Theme12Pr3\obj\Debug\Theme12Pr3.pdb
